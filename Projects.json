@@ -1,0 +1,99 @@
+[
+{
+  "PROJECTS" : 
+  {
+    "ID" : "1011",
+    "Type" : [
+      "Fintech",
+      "EdTech",
+      "Online Transaction"
+    ],
+    "Name" : "Instant Salaries Web Portal",
+    "DevelopmentDuration": "7 Months",
+    "DevelopmentStack": {
+      "Frontend": [
+        "VueJS2",
+        "Tailwind CSS",
+        "Venilla JavaScript",
+        "HTML5",
+        "Bootstrap4"
+      ],
+      "Backend": [
+        "ASP.NET Core",
+        "ASP.NET Framework 4.8",
+        "Job Queuing",
+        "REST API"
+      ],
+      "Database": [
+        "Microsoft SQL Server",
+        "MySql"
+      ],
+      "OtherTools": [
+        "Mass Transit",
+        "Modularize Monolithic Architect",
+        "RabbitMQ"
+      ]
+    },
+    "ProjectCoverImage": "https://coverimage.png",
+    "ProjectAvater": "https://cloudinary/project/instact_salaries_avater.png",
+    "GithubRepoStatus" : "Private",
+    "GithubRepoLink" : "https://github.com/MahfuzNazib/InstantSalaries",
+    "WebsiteLink" : "https://fintech.nazibmahfuz.com",
+    "AdminPanelUrl" : "https://fintech.nazibmahfuz.com/adminpanel",
+    "AdminEmailOrUser": "superadmin@gmail.com",
+    "AdminPassword" : "123456",
+    "OnBehalfOf": "hSenid Business Solutions",
+    "ProjectDocumentationURL" : null,
+    "ProjectStatus": "Completed",
+    "Description": "Instant Salaries is a fintech application that provides a convenient and accessible platform for individuals and companies to manage their financial transactions. The application operates on both B2C and B2B models, providing various loan options and salary management services.The B2C model is designed to cater to individuals looking for instant loans. The application offers loans to individuals based on their salaries. If a person's salary is 90,000 BDT, they can avail of up to 45,000 BDT as a loan. To get the loan, the individual needs to fill out a form, and after that, they need to pay an extra 300 taka as a form fee. This process is straightforward and efficient, enabling individuals to get loans with ease.On the other hand, the B2B model is designed to cater to companies looking for a convenient way to manage their employees' salaries. Instant Salaries offers various payment options like bKash, Nagad, and SSL, making it easy for companies to disburse salaries to their employees. This feature provides a hassle-free and secure way for companies to manage their finances and ensures that their employees receive their salaries on time.Overall, Instant Salaries is a robust fintech application that provides flexible and accessible financial services to individuals and companies. It is a user-friendly platform that ensures a seamless experience for users and helps them manage their finances effectively."
+  }},
+  {
+    "ID" : "1011",
+    "Type" : [
+      "Fintech",
+      "EdTech",
+      "Online Transaction"
+    ],
+    "Name" : "Instant Salaries Web Portal",
+    "DevelopmentDuration": "7 Months",
+    "DevelopmentStack": {
+      "Frontend": [
+        "VueJS2",
+        "Tailwind CSS",
+        "Venilla JavaScript",
+        "HTML5",
+        "Bootstrap4"
+      ],
+      "Backend": [
+        "ASP.NET Core",
+        "ASP.NET Framework 4.8",
+        "Job Queuing",
+        "REST API"
+      ],
+      "Database": [
+        "Microsoft SQL Server",
+        "MySql"
+      ],
+      "OtherTools": [
+        "Mass Transit",
+        "Modularize Monolithic Architect",
+        "RabbitMQ"
+      ]
+    },
+    "ProjectCoverImage": "https://coverimage.png",
+    "ProjectAvater": "https://cloudinary/project/instact_salaries_avater.png",
+    "GithubRepoStatus" : "Public",
+    "GithubRepoLink" : "https://github.com/MahfuzNazib/InstantSalaries",
+    "WebsiteLink" : "https://fintech.nazibmahfuz.com",
+    "AdminPanelUrl" : "https://fintech.nazibmahfuz.com/adminpanel",
+    "AdminEmailOrUser": "superadmin@gmail.com",
+    "AdminPassword" : "123456",
+    "OnBehalfOf": "hSenid Business Solutions",
+    "ProjectDocumentationURL" : null,
+    "ProjectStatus": "Completed",
+    "Description": "Instant Salaries is a fintech application that provides a convenient and accessible platform for individuals and companies to manage their financial transactions. The application operates on both B2C and B2B models, providing various loan options and salary management services.The B2C model is designed to cater to individuals looking for instant loans. The application offers loans to individuals based on their salaries. If a person's salary is 90,000 BDT, they can avail of up to 45,000 BDT as a loan. To get the loan, the individual needs to fill out a form, and after that, they need to pay an extra 300 taka as a form fee. This process is straightforward and efficient, enabling individuals to get loans with ease.On the other hand, the B2B model is designed to cater to companies looking for a convenient way to manage their employees' salaries. Instant Salaries offers various payment options like bKash, Nagad, and SSL, making it easy for companies to disburse salaries to their employees. This feature provides a hassle-free and secure way for companies to manage their finances and ensures that their employees receive their salaries on time.Overall, Instant Salaries is a robust fintech application that provides flexible and accessible financial services to individuals and companies. It is a user-friendly platform that ensures a seamless experience for users and helps them manage their finances effectively."
+  }]
+
+
+
+
