@@ -1,0 +1,84 @@
+[
+{
+  "WORK_EXPERIENCE" : 
+  {
+    "ID" : "1001",
+    "CompanyName": "hSenid Business Solution PLC.",
+    "CompanyLogo": "hsenidbizlogo/cloudinary.com",
+    "CompanyWebsiteLink": "https://hsenidbiz.com",
+    "LocationHQ": "Colombo, Sri Lanka",
+    "CurrentOfficeLocation": "Gulshan - 02, Dhaka, Bangladesh",
+    "JoinDate" : "01/12/2022",
+    "ResignDate": null,
+    "CurrentlyWorkHere": true,
+    "DevelopmentStack": {
+      "Backend": [
+        "ASP.NET Core",
+        "ASP.NET Framework",
+        "ASP.NET MVC"
+      ],
+      "Frontend": [
+        "Vue2",
+        "Vue3",
+        "ASPX"
+      ],
+      "Database": [
+        "Microsoft SQL Server"
+      ],
+      "Tools": [
+        "Azure Cloud",
+        "Azure Portal",
+        "CI/CD",
+        "MS Teams"
+      ]
+    },
+    "Images": [
+      "image1 url",
+      "image2 url"
+    ],
+    "MyResponsibilities": [
+      "Developed and maintained the Job Scheduler module in Peoples HR, a comprehensive HR solution designed for the Asia region, with over 33 modules.",
+      "Other Text"
+    ]
+  }},
+  {
+    "ID" : "1002",
+    "CompanyName": "hSenid Business Solution PLC.",
+    "CompanyLogo": "hsenidbizlogo/cloudinary.com",
+    "CompanyWebsiteLink": "https://hsenidbiz.com",
+    "LocationHQ": "Colombo, Sri Lanka",
+    "CurrentOfficeLocation": "Gulshan - 02, Dhaka, Bangladesh",
+    "JoinDate" : "01/12/2022",
+    "ResignDate": null,
+    "CurrentlyWorkHere": true,
+    "DevelopmentStack": {
+      "Backend": [
+        "ASP.NET Core",
+        "ASP.NET Framework",
+        "ASP.NET MVC"
+      ],
+      "Frontend": [
+        "Vue2",
+        "Vue3",
+        "ASPX"
+      ],
+      "Database": [
+        "Microsoft SQL Server"
+      ],
+      "Tools": [
+        "Azure Cloud",
+        "Azure Portal",
+        "CI/CD",
+        "MS Teams"
+      ]
+    },
+    "Images": [
+      "image1 url",
+      "image2 url"
+    ],
+    "MyResponsibilities": [
+      "Developed and maintained the Job Scheduler module in Peoples HR, a comprehensive HR solution designed for the Asia region, with over 33 modules.",
+      "Other Text"
+    ]
+  }]
+  
