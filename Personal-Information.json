@@ -1,0 +1,33 @@
+{
+  "BASIC_INFORMATION" : 
+  {
+    "FirstName" : "Nazib",
+    "LastName" : "Mahfuz",
+    "Designation" : "Software Engineer",
+    "CurrentCompanyName" : "hSenid Business Solutions PLC",
+    "YearsOfWorkExperience" : "5 Years",
+    "Age" : 28,
+    "Sex" : "Male",
+    "ContactNo" : "+8801777127618",
+    "Gmail" : "nazibmahfuz60@gmail.com",
+    "WebMail" : "hi@nazibmahfuz.com",
+    "DevProfiles" : {
+      "GitHub" : {
+        "Avater" : "https://github-avater",
+        "ProfileURL" : "https://github.com/MahfuzNazib"
+      },
+      "LinkedIn" : {
+        "Avater" : "https://github-avater",
+        "ProfileURL" : "https://github.com/MahfuzNazib"
+      },
+      "HackerRank" : {
+        "Avater" : "https://github-avater",
+        "ProfileURL" : "https://github.com/MahfuzNazib"
+      },
+      "StackOverFlow" : {
+        "Avater" : "https://github-avater",
+        "ProfileURL" : "https://github.com/MahfuzNazib"
+      }
+    }
+  }
+}
