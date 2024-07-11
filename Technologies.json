@@ -1,0 +1,23 @@
+{
+  "TECHNOLOGIES" : 
+  {
+    "Data" : 
+    {
+      "0" :
+      {
+        "Avater" : "https://nazibmahfuz.com/cloudinary/technologies/c#.png",
+        "Name" : "C#"
+      },
+      "1" :
+      {
+        "Avater" : "https://nazibmahfuz.com/cloudinary/technologies/c#.png",
+        "Name" : "ASP.NET Core"
+      },
+      "2" :
+      {
+        "Avater" : "https://nazibmahfuz.com/cloudinary/technologies/c#.png",
+        "Name" : "ASP.NET Framework"
+      }
+    }
+  }
+}
