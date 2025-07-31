@@ -104,9 +104,9 @@
   "projects": [
     {
       "id": 1,
-      "title": "E-commerce Platform",
+      "title": "Site360",
       "description": "A full-featured e-commerce platform with user authentication, payment integration, and admin dashboard.",
-      "image": "/placeholder.svg?height=200&width=400",
+      "image": "https://res.cloudinary.com/mahfuznazib/image/upload/v1753937629/My%20Portfolio/Projects/original-8f4d5bde537c987f3f87aebadf0a4c6d_nmndtc.webp",
       "liveUrl": "https://example.com",
       "projectCategory": "Web App",
       "technologies": ["React", "TypeScript", "Next.js", "Tailwind CSS", "Node.js", "Express", "MongoDB", "Stripe", "Redux Toolkit", "JWT", "AWS S3", "Vercel"],
