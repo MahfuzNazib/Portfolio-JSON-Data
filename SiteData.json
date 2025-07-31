@@ -1,307 +1,240 @@
-const companies = [
+{
+  "companies": [
     {
-      id: 1,
-      name: "Spring Rain Pvt Ltd",
-      shortName: "SR",
-      position: "Senior Software Engineer",
-      duration: "2022 - Present",
-      location: "Dhaka, Bangladesh",
-      description:
-        "Leading development of enterprise-level applications, mentoring junior developers, and architecting scalable solutions for complex business requirements.",
-      technologies: ["React", "Node.js", "TypeScript", "AWS"],
-      gradientColors: "from-blue-500 to-purple-600",
-      hoverGradient: "from-blue-500/10 to-purple-500/10",
-      borderGradient: "from-blue-500 to-purple-500",
-      buttonColor: "text-blue-600 hover:text-blue-800",
+      "id": 1,
+      "name": "Spring Rain Pvt Ltd",
+      "shortName": "SR",
+      "position": "Senior Software Engineer",
+      "duration": "2022 - Present",
+      "location": "Dhaka, Bangladesh",
+      "description": "Leading development of enterprise-level applications, mentoring junior developers, and architecting scalable solutions for complex business requirements.",
+      "technologies": ["React", "Node.js", "TypeScript", "AWS"],
+      "gradientColors": "from-blue-500 to-purple-600",
+      "hoverGradient": "from-blue-500/10 to-purple-500/10",
+      "borderGradient": "from-blue-500 to-purple-500",
+      "buttonColor": "text-blue-600 hover:text-blue-800"
     },
     {
-      id: 2,
-      name: "hSenid Business Solutions PLC.",
-      shortName: "hBS",
-      position: "Software Engineer",
-      duration: "December 2022 - August 2024",
-      location: "Gulshan, Dhaka, Bangladesh",
-      description:
-        "Developed and maintained web applications, collaborated with cross-functional teams, and implemented modern development practices.",
-      technologies: ["Angular", "JavaScript", "Laravel", "MySQL"],
-      gradientColors: "from-green-500 to-teal-600",
-      hoverGradient: "from-green-500/10 to-teal-500/10",
-      borderGradient: "from-green-500 to-teal-500",
-      buttonColor: "text-green-600 hover:text-green-800",
+      "id": 2,
+      "name": "hSenid Business Solutions PLC.",
+      "shortName": "hBS",
+      "position": "Software Engineer",
+      "duration": "December 2022 - August 2024",
+      "location": "Gulshan, Dhaka, Bangladesh",
+      "description": "Developed and maintained web applications, collaborated with cross-functional teams, and implemented modern development practices.",
+      "technologies": ["Angular", "JavaScript", "Laravel", "MySQL"],
+      "gradientColors": "from-green-500 to-teal-600",
+      "hoverGradient": "from-green-500/10 to-teal-500/10",
+      "borderGradient": "from-green-500 to-teal-500",
+      "buttonColor": "text-green-600 hover:text-green-800"
     },
     {
-      id: 3,
-      name: "RP Ai Solutions LTD",
-      shortName: "AiS",
-      position: "Software Engineer [Team Lead]",
-      duration: "December 2022 - August 2024",
-      location: "Uttara, Dhaka, Bangladesh",
-      description:
-        "Developed and maintained web applications, collaborated with cross-functional teams, and implemented modern development practices.",
-      technologies: ["Angular", "JavaScript", "Laravel", "MySQL"],
-      gradientColors: "from-green-500 to-teal-600",
-      hoverGradient: "from-green-500/10 to-teal-500/10",
-      borderGradient: "from-green-500 to-teal-500",
-      buttonColor: "text-green-600 hover:text-green-800",
+      "id": 3,
+      "name": "RP Ai Solutions LTD",
+      "shortName": "AiS",
+      "position": "Software Engineer [Team Lead]",
+      "duration": "December 2022 - August 2024",
+      "location": "Uttara, Dhaka, Bangladesh",
+      "description": "Developed and maintained web applications, collaborated with cross-functional teams, and implemented modern development practices.",
+      "technologies": ["Angular", "JavaScript", "Laravel", "MySQL"],
+      "gradientColors": "from-green-500 to-teal-600",
+      "hoverGradient": "from-green-500/10 to-teal-500/10",
+      "borderGradient": "from-green-500 to-teal-500",
+      "buttonColor": "text-green-600 hover:text-green-800"
     },
     {
-      id: 4,
-      name: "ZAMAN IT",
-      shortName: "ZIT",
-      position: "Junior Software Developer",
-      duration: "December 2022 - August 2024",
-      location: "Uttara, Dhaka, Bangladesh",
-      description:
-        "Developed and maintained web applications, collaborated with cross-functional teams, and implemented modern development practices.",
-      technologies: ["Angular", "JavaScript", "Laravel", "MySQL"],
-      gradientColors: "from-green-500 to-teal-600",
-      hoverGradient: "from-green-500/10 to-teal-500/10",
-      borderGradient: "from-green-500 to-teal-500",
-      buttonColor: "text-green-600 hover:text-green-800",
+      "id": 4,
+      "name": "ZAMAN IT",
+      "shortName": "ZIT",
+      "position": "Junior Software Developer",
+      "duration": "December 2022 - August 2024",
+      "location": "Uttara, Dhaka, Bangladesh",
+      "description": "Developed and maintained web applications, collaborated with cross-functional teams, and implemented modern development practices.",
+      "technologies": ["Angular", "JavaScript", "Laravel", "MySQL"],
+      "gradientColors": "from-green-500 to-teal-600",
+      "hoverGradient": "from-green-500/10 to-teal-500/10",
+      "borderGradient": "from-green-500 to-teal-500",
+      "buttonColor": "text-green-600 hover:text-green-800"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bsc in Computer Science",
+      "institution": "American International University - Bangladesh (AIUB)",
+      "year": "2017-2019",
+      "location": "Kuril, Dhaka, Bangladesh",
+      "description": "Focused on software engineering, algorithms, data structures, and computer architecture. Graduated with honors.",
+      "achievements": ["Dean's List", "Best Final Year Project", "Programming Competition Winner"],
+      "logo": "https://res.cloudinary.com/mahfuznazib/image/upload/v1753920253/My%20Portfolio/Institute/American_International_University-Bangladesh_Monogram.svg_igwo7a.png",
+      "gradientColors": "from-blue-500 to-purple-600",
+      "hoverGradient": "from-blue-500/10 to-purple-500/10",
+      "borderGradient": "from-blue-500 to-purple-500",
+      "buttonColor": "text-blue-600 hover:text-blue-800"
     },
+    {
+      "id": 2,
+      "degree": "Higher Secondary Certificate",
+      "institution": "Rajendrapur Cantonment Public College",
+      "year": "2014-2016",
+      "location": "Rajendrapur, Gazipur, Dhaka - Bangladesh",
+      "description": "Completed higher secondary education with focus on science group including Mathematics, Physics, and Chemistry.",
+      "achievements": ["Merit List", "Science Olympiad Participant", "Debate Team Member"],
+      "logo": "https://res.cloudinary.com/mahfuznazib/image/upload/v1753920404/My%20Portfolio/Institute/images_z2kehx.jpg",
+      "gradientColors": "from-green-500 to-teal-600",
+      "hoverGradient": "from-green-500/10 to-teal-500/10",
+      "borderGradient": "from-green-500 to-teal-500",
+      "buttonColor": "text-green-600 hover:text-green-800"
+    },
+    {
+      "id": 3,
+      "degree": "Secondary School Certificate",
+      "institution": "B.A.R.I High School",
+      "year": "2003-2013",
+      "location": "Joydepur, Gazipur, Dhaka - Bangladesh",
+      "description": "Completed secondary education with excellent academic performance and active participation in extracurricular activities.",
+      "achievements": ["Academic Excellence", "Sports Captain", "Cultural Program Organizer"],
+      "logo": "/images/bari-school-logo.png",
+      "gradientColors": "from-orange-500 to-red-600",
+      "hoverGradient": "from-orange-500/10 to-red-500/10",
+      "borderGradient": "from-orange-500 to-red-500",
+      "buttonColor": "text-orange-600 hover:text-orange-800"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-commerce Platform",
+      "description": "A full-featured e-commerce platform with user authentication, payment integration, and admin dashboard.",
+      "image": "/placeholder.svg?height=200&width=400",
+      "liveUrl": "https://example.com",
+      "projectCategory": "Web App",
+      "technologies": ["React", "TypeScript", "Next.js", "Tailwind CSS", "Node.js", "Express", "MongoDB", "Stripe", "Redux Toolkit", "JWT", "AWS S3", "Vercel"],
+      "detailedDescription": "This comprehensive e-commerce platform features a modern React frontend with a robust Node.js backend. It includes user authentication, shopping cart functionality, payment processing through Stripe, order management, and a complete admin dashboard for inventory management.",
+      "features": ["User Authentication", "Shopping Cart", "Payment Integration", "Admin Dashboard", "Order Tracking", "Inventory Management"],
+      "videoUrl": "/placeholder-video.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "A collaborative task management application with real-time updates, team collaboration features.",
+      "image": "/placeholder.svg?height=200&width=400",
+      "liveUrl": "https://example.com",
+      "projectCategory": "Web App",
+      "technologies": ["Angular", "TypeScript", "RxJS", "Angular Material", "Laravel", "PHP", "MySQL", "Socket.io", "Redis", "Docker", "Nginx", "AWS EC2"],
+      "detailedDescription": "A powerful task management application built with Angular and Laravel, featuring real-time collaboration, project management, team communication, and advanced reporting capabilities.",
+      "features": ["Real-time Updates", "Team Collaboration", "Project Management", "Time Tracking", "Reporting", "File Sharing"],
+      "videoUrl": "/placeholder-video.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Weather Dashboard",
+      "description": "A responsive weather dashboard with location-based forecasts, interactive maps, and data visualization.",
+      "image": "/placeholder.svg?height=200&width=400",
+      "liveUrl": "https://example.com",
+      "projectCategory": "Web App",
+      "technologies": ["Vue.js", "Vuex", "Vue Router", "Vuetify", "Express", "Node.js", "Chart.js", "D3.js", "OpenWeather API", "Mapbox", "PWA", "Netlify"],
+      "detailedDescription": "An interactive weather dashboard that provides detailed weather information, forecasts, and beautiful data visualizations using Chart.js and various weather APIs.",
+      "features": ["Location-based Forecasts", "Interactive Maps", "Data Visualization", "Weather Alerts", "Historical Data", "Mobile Responsive"],
+      "videoUrl": "/placeholder-video.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Fitness Tracker Mobile App",
+      "description": "A comprehensive mobile app for tracking workouts, nutrition, and health metrics with social features.",
+      "image": "/placeholder.svg?height=200&width=400",
+      "liveUrl": "https://example.com",
+      "projectCategory": "Mobile",
+      "technologies": ["React Native", "TypeScript", "Expo", "Redux", "Firebase", "Cloud Firestore", "Push Notifications", "HealthKit", "Google Fit", "App Store", "Play Store"],
+      "detailedDescription": "A feature-rich mobile application built with React Native and Expo, offering comprehensive fitness tracking, workout planning, nutrition monitoring, and social features for motivation.",
+      "features": ["Workout Tracking", "Nutrition Monitoring", "Social Features", "Progress Analytics", "Push Notifications", "Health Integration"],
+      "videoUrl": "/placeholder-video.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Code Generator Tool",
+      "description": "A developer productivity tool that generates boilerplate code and project templates.",
+      "image": "/placeholder.svg?height=200&width=400",
+      "liveUrl": "https://example.com",
+      "projectCategory": "Tools",
+      "technologies": ["Node.js", "TypeScript", "Commander.js", "Inquirer.js", "Chalk", "ORA", "File System", "GitHub API", "NPM", "CLI", "Templates", "Automation"],
+      "detailedDescription": "A powerful CLI tool that helps developers quickly generate project templates, boilerplate code, and setup configurations for various frameworks and technologies.",
+      "features": ["Project Templates", "Boilerplate Generation", "CLI Interface", "GitHub Integration", "Custom Templates", "Automation Scripts"],
+      "videoUrl": "/placeholder-video.mp4"
+    }
+  ],
+  "skillCategories": [
+    {
+      "title": "Frontend",
+      "icon": "Monitor",
+      "skills": [
+        { "name": "React", "icon": "⚛️" },
+        { "name": "Angular", "icon": "🅰️" },
+        { "name": "Vue.js", "icon": "💚" },
+        { "name": "TypeScript", "icon": "📘" },
+        { "name": "Tailwind CSS", "icon": "🎨" },
+        { "name": "Next.js", "icon": "▲" }
+      ]
+    },
+    {
+      "title": "Backend",
+      "icon": "Server",
+      "skills": [
+        { "name": "Node.js", "icon": "🟢" },
+        { "name": "Laravel", "icon": "🔴" },
+        { "name": ".NET", "icon": "🔵" },
+        { "name": "Express.js", "icon": "⚡" },
+        { "name": "PHP", "icon": "🐘" },
+        { "name": "Python", "icon": "🐍" }
+      ]
+    },
+    {
+      "title": "Database",
+      "icon": "Database",
+      "skills": [
+        { "name": "MySQL", "icon": "🐬" },
+        { "name": "MongoDB", "icon": "🍃" },
+        { "name": "PostgreSQL", "icon": "🐘" },
+        { "name": "Redis", "icon": "🔴" },
+        { "name": "SQLite", "icon": "💾" },
+        { "name": "Firebase", "icon": "🔥" }
+      ]
+    },
+    {
+      "title": "DevOps",
+      "icon": "Cloud",
+      "skills": [
+        { "name": "AWS", "icon": "☁️" },
+        { "name": "Docker", "icon": "🐳" },
+        { "name": "Kubernetes", "icon": "⚙️" },
+        { "name": "Jenkins", "icon": "🔧" },
+        { "name": "Nginx", "icon": "🌐" },
+        { "name": "Linux", "icon": "🐧" }
+      ]
+    },
+    {
+      "title": "Tools",
+      "icon": "Settings",
+      "skills": [
+        { "name": "Git", "icon": "📝" },
+        { "name": "GitHub", "icon": "🐙" },
+        { "name": "VS Code", "icon": "💻" },
+        { "name": "Draw.io", "icon": "📊" },
+        { "name": "Postman", "icon": "📮" },
+        { "name": "Figma", "icon": "🎨" }
+      ]
+    },
+    {
+      "title": "System Design",
+      "icon": "Layers",
+      "skills": [
+        { "name": "Microservices", "icon": "🏗️" },
+        { "name": "API Design", "icon": "🔗" },
+        { "name": "Load Balancing", "icon": "⚖️" },
+        { "name": "Caching", "icon": "💾" },
+        { "name": "Scalability", "icon": "📈" },
+        { "name": "Architecture", "icon": "🏛️" }
+      ]
+    }
   ]
-
-  const education = [
-    {
-      id: 1,
-      degree: "Bsc in Computer Science",
-      institution: "American International University - Bangladesh (AIUB)",
-      year: "2017-2019",
-      location: "Kuril, Dhaka, Bangladesh",
-      description: "Focused on software engineering, algorithms, data structures, and computer architecture. Graduated with honors.",
-      achievements: ["Dean's List", "Best Final Year Project", "Programming Competition Winner"],
-      logo: "https://res.cloudinary.com/mahfuznazib/image/upload/v1753920253/My%20Portfolio/Institute/American_International_University-Bangladesh_Monogram.svg_igwo7a.png",
-      gradientColors: "from-blue-500 to-purple-600",
-      hoverGradient: "from-blue-500/10 to-purple-500/10",
-      borderGradient: "from-blue-500 to-purple-500",
-      buttonColor: "text-blue-600 hover:text-blue-800",
-    },
-    {
-      id: 2,
-      degree: "Higher Secondary Certificate",
-      institution: "Rajendrapur Cantonment Public College",
-      year: "2014-2016",
-      location: "Rajendrapur, Gazipur, Dhaka - Bangladesh",
-      description: "Completed higher secondary education with focus on science group including Mathematics, Physics, and Chemistry.",
-      achievements: ["Merit List", "Science Olympiad Participant", "Debate Team Member"],
-      logo: "https://res.cloudinary.com/mahfuznazib/image/upload/v1753920404/My%20Portfolio/Institute/images_z2kehx.jpg",
-      gradientColors: "from-green-500 to-teal-600",
-      hoverGradient: "from-green-500/10 to-teal-500/10",
-      borderGradient: "from-green-500 to-teal-500",
-      buttonColor: "text-green-600 hover:text-green-800",
-    },
-    {
-      id: 3,
-      degree: "Secondary School Certificate",
-      institution: "B.A.R.I High School",
-      year: "2003-2013",
-      location: "Joydepur, Gazipur, Dhaka - Bangladesh",
-      description: "Completed secondary education with excellent academic performance and active participation in extracurricular activities.",
-      achievements: ["Academic Excellence", "Sports Captain", "Cultural Program Organizer"],
-      logo: "/images/bari-school-logo.png", // Add your school logo here
-      gradientColors: "from-orange-500 to-red-600",
-      hoverGradient: "from-orange-500/10 to-red-500/10",
-      borderGradient: "from-orange-500 to-red-500",
-      buttonColor: "text-orange-600 hover:text-orange-800",
-    },
-  ]
-
-  const projects = [
-    {
-      id: 1,
-      title: "E-commerce Platform",
-      description:
-        "A full-featured e-commerce platform with user authentication, payment integration, and admin dashboard.",
-      image: "/placeholder.svg?height=200&width=400",
-      liveUrl: "https://example.com",
-      projectCategory: "Web App",
-      technologies: [
-        "React", "TypeScript", "Next.js", "Tailwind CSS", 
-        "Node.js", "Express", "MongoDB", "Stripe", 
-        "Redux Toolkit", "JWT", "AWS S3", "Vercel"
-      ],
-      detailedDescription:
-        "This comprehensive e-commerce platform features a modern React frontend with a robust Node.js backend. It includes user authentication, shopping cart functionality, payment processing through Stripe, order management, and a complete admin dashboard for inventory management.",
-      features: [
-        "User Authentication",
-        "Shopping Cart",
-        "Payment Integration",
-        "Admin Dashboard",
-        "Order Tracking",
-        "Inventory Management",
-      ],
-      videoUrl: "/placeholder-video.mp4",
-    },
-    {
-      id: 2,
-      title: "Task Management App",
-      description: "A collaborative task management application with real-time updates, team collaboration features.",
-      image: "/placeholder.svg?height=200&width=400",
-      liveUrl: "https://example.com",
-      projectCategory: "Web App",
-      technologies: [
-        "Angular", "TypeScript", "RxJS", "Angular Material",
-        "Laravel", "PHP", "MySQL", "Socket.io", 
-        "Redis", "Docker", "Nginx", "AWS EC2"
-      ],
-      detailedDescription:
-        "A powerful task management application built with Angular and Laravel, featuring real-time collaboration, project management, team communication, and advanced reporting capabilities.",
-      features: [
-        "Real-time Updates",
-        "Team Collaboration",
-        "Project Management",
-        "Time Tracking",
-        "Reporting",
-        "File Sharing",
-      ],
-      videoUrl: "/placeholder-video.mp4",
-    },
-    {
-      id: 3,
-      title: "Weather Dashboard",
-      description:
-        "A responsive weather dashboard with location-based forecasts, interactive maps, and data visualization.",
-      image: "/placeholder.svg?height=200&width=400",
-      liveUrl: "https://example.com",
-      projectCategory: "Web App",
-      technologies: [
-        "Vue.js", "Vuex", "Vue Router", "Vuetify",
-        "Express", "Node.js", "Chart.js", "D3.js",
-        "OpenWeather API", "Mapbox", "PWA", "Netlify"
-      ],
-      detailedDescription:
-        "An interactive weather dashboard that provides detailed weather information, forecasts, and beautiful data visualizations using Chart.js and various weather APIs.",
-      features: [
-        "Location-based Forecasts",
-        "Interactive Maps",
-        "Data Visualization",
-        "Weather Alerts",
-        "Historical Data",
-        "Mobile Responsive",
-      ],
-      videoUrl: "/placeholder-video.mp4",
-    },
-    {
-      id: 4,
-      title: "Fitness Tracker Mobile App",
-      description: "A comprehensive mobile app for tracking workouts, nutrition, and health metrics with social features.",
-      image: "/placeholder.svg?height=200&width=400",
-      liveUrl: "https://example.com",
-      projectCategory: "Mobile",
-      technologies: [
-        "React Native", "TypeScript", "Expo", "Redux",
-        "Firebase", "Cloud Firestore", "Push Notifications",
-        "HealthKit", "Google Fit", "App Store", "Play Store"
-      ],
-      detailedDescription:
-        "A feature-rich mobile application built with React Native and Expo, offering comprehensive fitness tracking, workout planning, nutrition monitoring, and social features for motivation.",
-      features: [
-        "Workout Tracking",
-        "Nutrition Monitoring",
-        "Social Features",
-        "Progress Analytics",
-        "Push Notifications",
-        "Health Integration",
-      ],
-      videoUrl: "/placeholder-video.mp4",
-    },
-    {
-      id: 5,
-      title: "Code Generator Tool",
-      description: "A developer productivity tool that generates boilerplate code and project templates.",
-      image: "/placeholder.svg?height=200&width=400",
-      liveUrl: "https://example.com",
-      projectCategory: "Tools",
-      technologies: [
-        "Node.js", "TypeScript", "Commander.js", "Inquirer.js",
-        "Chalk", "ORA", "File System", "GitHub API",
-        "NPM", "CLI", "Templates", "Automation"
-      ],
-      detailedDescription:
-        "A powerful CLI tool that helps developers quickly generate project templates, boilerplate code, and setup configurations for various frameworks and technologies.",
-      features: [
-        "Project Templates",
-        "Boilerplate Generation",
-        "CLI Interface",
-        "GitHub Integration",
-        "Custom Templates",
-        "Automation Scripts",
-      ],
-      videoUrl: "/placeholder-video.mp4",
-    },
-  ]
-
-  const skillCategories = [
-    {
-      title: "Frontend",
-      icon: Monitor,
-      skills: [
-        { name: "React", icon: "⚛️" },
-        { name: "Angular", icon: "🅰️" },
-        { name: "Vue.js", icon: "💚" },
-        { name: "TypeScript", icon: "📘" },
-        { name: "Tailwind CSS", icon: "🎨" },
-        { name: "Next.js", icon: "▲" },
-      ],
-    },
-    {
-      title: "Backend",
-      icon: Server,
-      skills: [
-        { name: "Node.js", icon: "🟢" },
-        { name: "Laravel", icon: "🔴" },
-        { name: ".NET", icon: "🔵" },
-        { name: "Express.js", icon: "⚡" },
-        { name: "PHP", icon: "🐘" },
-        { name: "Python", icon: "🐍" },
-      ],
-    },
-    {
-      title: "Database",
-      icon: Database,
-      skills: [
-        { name: "MySQL", icon: "🐬" },
-        { name: "MongoDB", icon: "🍃" },
-        { name: "PostgreSQL", icon: "🐘" },
-        { name: "Redis", icon: "🔴" },
-        { name: "SQLite", icon: "💾" },
-        { name: "Firebase", icon: "🔥" },
-      ],
-    },
-    {
-      title: "DevOps",
-      icon: Cloud,
-      skills: [
-        { name: "AWS", icon: "☁️" },
-        { name: "Docker", icon: "🐳" },
-        { name: "Kubernetes", icon: "⚙️" },
-        { name: "Jenkins", icon: "🔧" },
-        { name: "Nginx", icon: "🌐" },
-        { name: "Linux", icon: "🐧" },
-      ],
-    },
-    {
-      title: "Tools",
-      icon: Settings,
-      skills: [
-        { name: "Git", icon: "📝" },
-        { name: "GitHub", icon: "🐙" },
-        { name: "VS Code", icon: "💻" },
-        { name: "Draw.io", icon: "📊" },
-        { name: "Postman", icon: "📮" },
-        { name: "Figma", icon: "🎨" },
-      ],
-    },
-    {
-      title: "System Design",
-      icon: Layers,
-      skills: [
-        { name: "Microservices", icon: "🏗️" },
-        { name: "API Design", icon: "🔗" },
-        { name: "Load Balancing", icon: "⚖️" },
-        { name: "Caching", icon: "💾" },
-        { name: "Scalability", icon: "📈" },
-        { name: "Architecture", icon: "🏛️" },
-      ],
-    },
-  ]
+}
